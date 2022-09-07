@@ -10,6 +10,7 @@ Just Run `npm install` and `npm run dev`
 
 ```
 "react-scripts": "^5.0.1" has 6 high severity vulnerabilites at time of writing but
-according to this: [npm audit: Broken by Design](https://overreacted.io/npm-audit-broken-by-design/)
+according to this:
+[npm audit: Broken by Design](https://overreacted.io/npm-audit-broken-by-design/)
 you can ignore them :o
 ```
